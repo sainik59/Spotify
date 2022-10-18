@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pB1Do0dWIn1Xzi1bJj3clqnIaWgcWB7d4aA//5X3Fr2OcTYNfaU/WdM7Xex4sWkxcIJiZRaOKzN2l1pq1t9uVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sai nikhith\\source\\repos\\SpotifyApp\\SpotifyApp\\SpotifyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sai nikhith\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
